@@ -1,6 +1,1 @@
-# gowthami
-beast
-sri
-movie
-
 
